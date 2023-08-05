@@ -30,3 +30,5 @@ ogb
 transformers[torch]
 tokenizers
 datasets
+termcolor
+sentence-transformers
