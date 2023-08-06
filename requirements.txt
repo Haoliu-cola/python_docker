@@ -1,14 +1,14 @@
 lightning
 torch_geometric
--f https://data.pyg.org/whl/torch-1.13.0+cu118.html
+-f https://data.pyg.org/whl/torch-1.13.0+cu117.html
 pyg_lib
--f https://data.pyg.org/whl/torch-1.13.0+cu118.html
+-f https://data.pyg.org/whl/torch-1.13.0+cu117.html
 torch_scatter
--f https://data.pyg.org/whl/torch-1.13.0+cu118.html
+-f https://data.pyg.org/whl/torch-1.13.0+cu117.html
 torch_sparse
--f https://data.pyg.org/whl/torch-1.13.0+cu118.html
+-f https://data.pyg.org/whl/torch-1.13.0+cu117.html
 torch_cluster
--f https://data.pyg.org/whl/torch-1.13.0+cu118.html
+-f https://data.pyg.org/whl/torch-1.13.0+cu117.html
 torch_spline_conv
 -f https://data.dgl.ai/wheels/cu116/repo.html
 dgl
